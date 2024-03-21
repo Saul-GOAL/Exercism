@@ -1,0 +1,14 @@
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\bin\Debug\net8.0\PhoneCallAnalysis.exe
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\bin\Debug\net8.0\PhoneCallAnalysis.deps.json
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\bin\Debug\net8.0\PhoneCallAnalysis.runtimeconfig.json
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\bin\Debug\net8.0\PhoneCallAnalysis.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\bin\Debug\net8.0\PhoneCallAnalysis.pdb
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.AssemblyInfoInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.AssemblyInfo.cs
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\refint\PhoneCallAnalysis.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.pdb
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\PhoneCallAnalysis.genruntimeconfig.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\PhoneCallAnalysis\PhoneCallAnalysis\obj\Debug\net8.0\ref\PhoneCallAnalysis.dll
