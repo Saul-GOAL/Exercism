@@ -1,0 +1,14 @@
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\bin\Debug\net8.0\Darts.exe
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\bin\Debug\net8.0\Darts.deps.json
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\bin\Debug\net8.0\Darts.runtimeconfig.json
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\bin\Debug\net8.0\Darts.dll
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\bin\Debug\net8.0\Darts.pdb
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.AssemblyInfoInputs.cache
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.AssemblyInfo.cs
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.dll
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\refint\Darts.dll
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.pdb
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\Darts.genruntimeconfig.cache
+C:\Users\Saul_\source\repos\Exercism\IfStatements\Darts\Darts\obj\Debug\net8.0\ref\Darts.dll
