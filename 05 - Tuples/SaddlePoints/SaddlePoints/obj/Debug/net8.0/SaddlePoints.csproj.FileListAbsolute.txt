@@ -1,0 +1,14 @@
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\bin\Debug\net8.0\SaddlePoints.exe
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\bin\Debug\net8.0\SaddlePoints.deps.json
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\bin\Debug\net8.0\SaddlePoints.runtimeconfig.json
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\bin\Debug\net8.0\SaddlePoints.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\bin\Debug\net8.0\SaddlePoints.pdb
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.AssemblyInfoInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.AssemblyInfo.cs
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.csproj.CoreCompileInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\refint\SaddlePoints.dll
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.pdb
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\SaddlePoints.genruntimeconfig.cache
+C:\Users\Saul_\source\repos\Exercism\Tuples\SaddlePoints\SaddlePoints\obj\Debug\net8.0\ref\SaddlePoints.dll
