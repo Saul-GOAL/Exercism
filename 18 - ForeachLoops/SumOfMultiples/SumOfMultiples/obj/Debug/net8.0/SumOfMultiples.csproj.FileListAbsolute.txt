@@ -1,0 +1,14 @@
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\net8.0\SumOfMultiples.exe
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\net8.0\SumOfMultiples.deps.json
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\net8.0\SumOfMultiples.runtimeconfig.json
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\net8.0\SumOfMultiples.dll
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\bin\Debug\net8.0\SumOfMultiples.pdb
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.AssemblyInfoInputs.cache
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.AssemblyInfo.cs
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.csproj.CoreCompileInputs.cache
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.dll
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\refint\SumOfMultiples.dll
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.pdb
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\SumOfMultiples.genruntimeconfig.cache
+C:\Users\Saul_\source\repos\Projects\SumOfMultiples\SumOfMultiples\obj\Debug\net8.0\ref\SumOfMultiples.dll
