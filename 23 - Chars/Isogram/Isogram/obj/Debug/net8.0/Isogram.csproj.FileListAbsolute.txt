@@ -1,0 +1,14 @@
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\bin\Debug\net8.0\Isogram.exe
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\bin\Debug\net8.0\Isogram.deps.json
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\bin\Debug\net8.0\Isogram.runtimeconfig.json
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\bin\Debug\net8.0\Isogram.dll
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\bin\Debug\net8.0\Isogram.pdb
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.AssemblyInfoInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.AssemblyInfo.cs
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.csproj.CoreCompileInputs.cache
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.dll
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\refint\Isogram.dll
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.pdb
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\Isogram.genruntimeconfig.cache
+C:\Users\Saul_\source\repos\Exercism\Strings\Isogram\Isogram\obj\Debug\net8.0\ref\Isogram.dll
